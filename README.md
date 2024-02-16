@@ -1,4 +1,4 @@
-# Bike Shaing Demand Prediction_Supervised Ml Regression Project
+# Bike Sharing Demand Prediction_Supervised Ml Regression Project
 Currently, Rental bikes are introduced in many urban cities for the enhancement of mobility comfort. It is important to make the rental bike available and accessible to the public at the right time as it lessens the waiting time. Eventually, providing the city with a stable supply of rental bikes becomes a major concern. The crucial part is the prediction of bike count required at each hour for the stable supply of rental bikes.
 
 ## Business Objective
@@ -32,5 +32,8 @@ there is positive growth from second week and it is observed that on 25th week o
 When visibility is 2000 people prefer the most to rent bikes Demand of rental bikes is on the low soalar radiation i.e 0.0
 
 People do not prefer to rent a bike when there is a solar radiation > 0.05
+![image](https://github.com/GeetanjliRC/RentalBikeSharing-DemandPrediction/assets/91873936/8b2ca8bf-fe78-48e6-bd3f-26714a1b0ce8)
+
+
 
 
